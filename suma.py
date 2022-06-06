@@ -6,4 +6,5 @@ print(suma)
 # otra suma
 c=15
 b=45
-print(c+b)
+d=10
+print(c+b+d)
