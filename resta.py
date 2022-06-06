@@ -5,3 +5,4 @@ resta = a+b
 print(resta)
 
 resta = resta -5
+print(resta)
